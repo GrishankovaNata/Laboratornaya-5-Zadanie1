@@ -1,0 +1,17 @@
+h3 {
+    margin: 0 50px 100px 0;
+    padding: 50px;
+    border: 10px solid darkblue;
+    background-color: lightblue;
+}
+p {
+    margin: 30px 150px 50px 150px;
+    padding: 30px;
+    border: 10px solid darkred;
+    background-color: pink;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+}
